@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Kalam';
+    src: url('../../fonts/Kalam-Bold.eot');
+    src: url('../../fonts/Kalam-Bold.eot') format('embedded-opentype'),
+        url('../../fonts/Kalam-Bold.woff2') format('woff2'),
+        url('../../fonts/Kalam-Bold.woff') format('woff'),
+        url('../../fonts/Kalam-Bold.ttf') format('truetype'),
+        url('../../fonts/Kalam-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans Condensed Bold';
+    src: url('../../fonts/OpenSansCondensed-Bold.eot');
+    src: url('../../fonts/OpenSansCondensed-Bold.eot') format('embedded-opentype'),
+        url('../../fonts/OpenSansCondensed-Bold.woff2') format('woff2'),
+        url('../../fonts/OpenSansCondensed-Bold.woff') format('woff'),
+        url('../../fonts/OpenSansCondensed-Bold.ttf') format('truetype'),
+        url('../../fonts/OpenSansCondensed-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('../../fonts/OpenSansCondensed-Light.eot');
+    src: url('../../fonts/OpenSansCondensed-Light.eot') format('embedded-opentype'),
+        url('../../fonts/OpenSansCondensed-Light.woff2') format('woff2'),
+        url('../../fonts/OpenSansCondensed-Light.woff') format('woff'),
+        url('../../fonts/OpenSansCondensed-Light.ttf') format('truetype'),
+        url('../../fonts/OpenSansCondensed-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
