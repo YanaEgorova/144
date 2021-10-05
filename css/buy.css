@@ -83,6 +83,8 @@ option {
     line-height: 5rem;
     font-size: 2rem;
     pointer-events: none;
+    -webkit-appearance: none;
+    -moz-appearance: textfield;
 }
 .btn-disable {
     pointer-events: none;
