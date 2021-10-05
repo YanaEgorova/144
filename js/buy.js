@@ -193,9 +193,9 @@ function priceAmount(value) {
         case 10:
         return 89.99;
         case 11:
-        return 109;
+        return 109.00;
         case 12:
-        return 119;
+        return 119.00;
     }
 }
 
@@ -255,11 +255,11 @@ function quantityLabelOptions(quantity) {
         };
         case 11:
         return {
-            title: '11 Packs for $109',
+            title: '11 Packs for $109.00',
         };
         case 12:
         return {
-            title: '12 Packs for $119',
+            title: '12 Packs for $119.00',
         };
     }
 }
